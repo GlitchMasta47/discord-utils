@@ -34,3 +34,4 @@ You can then serve the files from `./dist/`.
 - [ ] Mobile Assets - shows the manifest for the mobile apps, and allows you to browse the assets for a specific version or commit
 - [ ] User ID <-> User Tag - converts an user id to a user tag (Username#1234) and vice versa
 - [ ] Membership Screening Editor - editor for Membership Screening that allows more customizability than Discord's UI allows
+- [ ] Enhanced Discovery Requirements - shows more verbose data about a server's eligibility for server discovery
